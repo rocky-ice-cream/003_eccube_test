@@ -1,0 +1,1 @@
+<li<!--{if $tpl_subno == 'addproduct'}--> class="on"<!--{/if}--> id="navi-system-addproduct"><a href="<!--{$smarty.const.ROOT_URLPATH}--><!--{$smarty.const.ADMIN_DIR}-->system/plg_AddProduct_addproduct.php"><span>アプリ連携トークン管理</span></a></li>
